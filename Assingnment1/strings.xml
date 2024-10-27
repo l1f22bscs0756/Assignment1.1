@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="change_library">Change Library</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="stay_logged_in">Stay logged in</string>
+    <string name="login_with_credentials">Log in with Credentials</string>
+    <string name="or">OR</string>
+    <string name="login_with_badge">Log in with Badge</string>
+    <string name="Sdk_Logo">Sdk Logo</string>
+</resources>
